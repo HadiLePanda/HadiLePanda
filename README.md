@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HadiLePanda
+- 👋 Hi, I’m @HadiLePanda, self-taught game developer for 7 years
 - 👀 I’m interested in C# and creating video-games in Unity
-- 🌱 I’m currently improving my skills in C# and Unity by making projects while learning
-- 💞️ I’m interested in collaborating on game or software development
+- 🌱 I’m currently making games in C# and Unity, and different languages by making projects
+- 💞️ I’m interested in collaborating on game, software, or web development
 
 📫 How to reach me:
 hadizorkot@gmail.com
